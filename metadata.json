@@ -1,0 +1,6 @@
+{
+  "name": "SCANDAL LH — Bien-être Intime & Lingerie",
+  "description": "Maquette de refonte e-commerce haut de gamme pour la boutique SCANDAL LH au Havre, conçue par Jojo Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
